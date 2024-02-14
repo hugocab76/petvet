@@ -1,0 +1,73 @@
+
+ @media only screen and (max-width: 600px) {
+    bodyxxx {
+    background-color: red;
+    }
+    }
+
+nav li a {
+    color: aliceblue;
+}
+
+nav li {
+    color: aliceblue;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+.estiloh1-header {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.li-estilo {
+    color: whitesmoke;
+}
+
+.p-estilo {
+    color:brown;
+    font-size:2vw
+}
+
+.estilo-div {
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.box-ejemplo {
+color: aliceblue;
+width: 600px;
+height: 200px;
+padding: 30px;
+border: Spx solid grey;
+margin: 30px;
+border: 10px solid;
+background-image: url(../assets/img/pxfuel.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+max-width:100%
+}
+
+.box-clase {
+    width: 600px;
+    height: 300px;
+    padding: 30px;
+    border: Spx solid grey;
+    margin: 30px;
+    border: 10px solid;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-image: url(../assets/img/pxfuel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    max-width:100%
+}
+
+.header-estilo {
+    background-image: url(../assets/img/pxfuel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
